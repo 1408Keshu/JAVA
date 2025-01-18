@@ -9,7 +9,7 @@ public class main {
         String name= "    Keshava    ";
 
         // boolean result = name.equalsIgnoreCase("keshav");
-        // boolean result = name.equalsIgnoreCase("bro");
+        boolean result = name.equalsIgnoreCase("bro");
         // boolean result = name.isEmpty();
         // String result = name.toUpperCase();
         // String result = name.toLowerCase();
@@ -17,7 +17,7 @@ public class main {
         // int result = name.length();
         // char result = name.charAt(1);
         // int result = name.indexOf("a");
-        String result = name.trim();
+        // String result = name.trim();
 
         System.out.println(result);
 
