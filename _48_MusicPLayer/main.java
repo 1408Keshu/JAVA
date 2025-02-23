@@ -14,7 +14,6 @@ import javax.sound.sampled.UnsupportedAudioFileException;
 public class main {
  public static void main(String[] args) {
 
-
     String filePath="D:\\JAVA\\_48_MusicPLayer\\B Praak - Kya Loge Tum.wav";
     File file = new File(filePath);
     try( Scanner sc= new Scanner(System.in);
